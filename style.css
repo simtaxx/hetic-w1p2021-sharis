@@ -1,0 +1,21 @@
+h1
+{
+  font-family: arial;
+  text-align: center;
+}
+main
+{
+  font-family: arial;
+  text-align: center;
+}
+footer
+{
+  font-family: arial;
+  text-align: center;
+}
+.img1
+{
+  margin: 0 auto;
+  width: 90%;
+  height: 500px;
+}
