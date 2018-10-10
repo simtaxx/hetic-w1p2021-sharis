@@ -1,3 +1,6 @@
+html {
+  background-image:url(Images/gradient-1761190_1920.jpg);
+}
 h1
 {
   font-family: arial;
@@ -18,4 +21,21 @@ footer
   margin: 0 auto;
   width: 70%;
   height: 500px;
+}
+.img2
+{
+  width: 5%;
+  margin-top: -4%;
+  margin-left: 28%;
+}
+.img3
+{
+  width: 5%;
+  margin-top: -150px;
+  margin-left: 70%;
+}
+.music1
+{
+  margin-left: -95%;
+  margin-bottom: -11;
 }
